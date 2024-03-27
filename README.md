@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 - 🌱 I’m currently learning **advanced full-stack development techniques**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/barisskas)
 - 📫 How to reach me **ecaepraw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
